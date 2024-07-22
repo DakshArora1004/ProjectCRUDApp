@@ -16,7 +16,7 @@ ProjectManager is a full-stack web application that allows users to manage proje
 - **Frontend**: React
 - **UI Library**: Material UI
 - **Form Handling**: react-hook-form
-- **Database**: SQLite (or specify if using another database)
+- **Database**: SQLite 
 - **Others**: Axios for API requests, Git for version control
 
 ## Installation
